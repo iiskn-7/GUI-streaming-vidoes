@@ -5,7 +5,6 @@ import customtkinter as custom
 import cv2
 from PIL import Image, ImageTk, ImageSequence
 from tkinter import filedialog
-from playsound import playsound
 
 
 custom.set_appearance_mode("light")
